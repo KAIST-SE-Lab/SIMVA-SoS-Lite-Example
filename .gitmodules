@@ -1,0 +1,3 @@
+[submodule "engine"]
+	path = engine
+	url = https://github.com/KAIST-SE-Lab/SIMVA-SoS-Lite-New
